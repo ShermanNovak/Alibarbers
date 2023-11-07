@@ -1,5 +1,10 @@
-## Project Setup
+# Alibarbers
+Welcome to our hairdresser appointment scheduling project, where convenience meets style. Our platform simplifies the process of booking appointments with skilled hair professionals. From cuts to colors, our user-friendly interface offers hassle-free scheduling, putting your perfect look at your fingertips. Say goodbye to waiting in line and hello to a personalized experience tailored to your schedule. Elevate your style effortlessly with our appointment scheduling project.
 
+### Watch our Project Demo here
+https://www.youtube.com/watch?v=o9lFFHROjLI
+
+### Project Setup
 Run the following command to install required packages.
 ```sh
 npm install
@@ -25,6 +30,3 @@ password: hairdresser
 email: customer@gmail.com
 password: customer
 ```
-
-### Watch our Project Demo here
-https://www.youtube.com/watch?v=o9lFFHROjLI
